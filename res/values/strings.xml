@@ -22,7 +22,7 @@
     <skip />
     <!-- Application name -->
 
-    <string name="application_name">Helix Launcher2</string>
+    <string name="application_name">Buuf Launcher2</string>
 
     <!-- Name for all applications running as this uid. -->
     <string name="uid_name">Android Core Apps</string>
@@ -182,11 +182,11 @@
 	<string name="pref_summary_app_uri">Overrides calling intent by class</string>
 	
 	<string name="pref_title_launcher2_version">Version</string>
-	<string name="pref_summary_launcher2_version">0.1</string>
+	<string name="pref_summary_launcher2_version">1</string>
 	<string name="pref_title_launcher2_author">Author</string>
 	<string name="pref_summary_launcher2_author">Faruq (twitter.com/ruqqq)</string>
 	<string name="pref_title_launcher2_MODauthor">Modified by</string>
-	<string name="pref_summary_launcher2_MODauthor">ADCRom Team(www.alldroid.org)</string>
+	<string name="pref_summary_launcher2_MODauthor">Topsy</string>
 	<string name="pref_title_launcher2_restart">Restart Launcher2</string>
 
 	<string name="restore_default">Restore Default</string>
